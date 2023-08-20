@@ -23,7 +23,7 @@
 
 
 ## About Me
-I am a data scientist, and analyst with a strong passion for AI applications and expertise in MLOps. My goal is to leverage my engineering, programming skills and data analysis expertise to develop innovative solutions.
+Data Scientist with 3+ years of experience in using advanced analytical techniques to solve complex business problems. Skilled in statistical modeling, machine learning, and data visualization. Proven ability to extract actionable insights from large datasets and effectively communicate findings to stakeholders. Proficient in Python, R, SQL, and Power BI.
 
 
 - 🔭 I’m currently exploring the intersection of AI and MLOps
@@ -41,11 +41,10 @@ I am a data scientist, and analyst with a strong passion for AI applications and
 
 
 ## Projects
-- GA-TCN-LSTM: Multivariate Time Series Forecasting of Oil Production Based on Ensemble Deep Learning and Genetic Algorithm
-- RetailSensai: Retail Sales Forecasting and Monitoring
-- ProBHP: Intelligent FBHP Estimation and Analysis
-- odc: Outliers Detection, Visualization and Treatment in Oil Well Datasets
-- OzoneDash: Interactive Ozone Layer Insights Dashboard: Emissions, Montreal Protocol Impact, and Ozone Stabilization
+- fraud&anomaly Detection: Identify potential fraud patterns and assess risk factors to minimize financial losses and protect the organization's assets.
+- RetailSensai:  Predict future sales trends and optimize inventory levels to minimize stockouts and overstock situations.
+- Customer-segmentation-analysis-product-recommender-system:  Identify distinct customer segments and their behavior patterns to enhance marketing strategies and customer experience.
+- Bayesian-cost-optimization:  Identify inefficiencies in operational processes and recommend improvements to reduce costs and enhance productivity.
 
 
 ## Contact Me
