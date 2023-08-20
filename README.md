@@ -1,5 +1,5 @@
 
-# Hello, I'm Ashraf Alaghbari👋
+# Hello, I'm Justine Hui👋
 
 <!-- # 💻 Tech Stack: -->
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -31,7 +31,7 @@ I am a data scientist, and analyst with a strong passion for AI applications and
 - 💼 I'm open to new opportunities and exciting projects that push the boundaries of AI applications
 
 ## Education
-- 🎓 I hold a Bachelor's degree in Computer Engineering
+- 🎓 I hold a Bachelor's degree in Computer Engineering (Nanyang Technological University)
 
 ## Skills
 - Programming Languages: Python, R, SQL
