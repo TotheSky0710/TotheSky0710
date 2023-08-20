@@ -48,7 +48,7 @@ Data Scientist with 3+ years of experience in using advanced analytical techniqu
 
 
 ## Contact Me
-- Email: [ashrafalaghbari@hotmail.com](JustineHui1010@gmail.com)
+- Email: [JustineHui1010@gmail.com](JustineHui1010@gmail.com)
 
 Feel free to explore my repositories and contributions here on GitHub. I'm always open to collaboration and welcome feedback on my projects. Let's connect and create innovative solutions together!
 
