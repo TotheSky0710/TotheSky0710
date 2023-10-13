@@ -2,7 +2,7 @@
 # Hello, Fantastic Full Stack Developer is HERE👋
 
 ## About Me
-I am a full stack developer and I have 6+ years experience in this field.
+I am a full stack developer and I have 10+ years experience in this field.
 MERN Stack is my major stack and MEAN, Laravel and Django are also familiar with me.
 
 - 🌱 I’m constantly learning and staying up-to-date with the latest advancements in the field
