@@ -3,7 +3,10 @@
 
 ## About Me
 I am a full stack developer.
-MERN Stack is my major stack and MEAN, Laravel and Django are also familiar with me.
+
+Modern Javascript Full stack Like MERN, MEAN, NEXT.
+Great PHP Full Stack Framework Like LAMP, CI
+And Laravel + Vue, Laravel + React and TALL Stacks
 
 - 🌱 I’m constantly learning and staying up-to-date with the latest advancements in the field
 - 💼 I'm open to new opportunities and exciting projects that push the boundaries of Full Stack projects
