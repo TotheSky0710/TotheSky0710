@@ -1,6 +1,6 @@
 
 # Hello,👋
-# This is Franklin, Senior Full Stack Engineer
+# This is Senior Full Stack Engineer
 
 - 🌱 I’m constantly learning and staying up-to-date with the latest advancements in the field
 - 💼 I'm open to new opportunities and exciting projects that push the boundaries of Full Stack projects
